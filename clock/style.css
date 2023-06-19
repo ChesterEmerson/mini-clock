@@ -83,7 +83,7 @@ body {
 }
 .clock .hand.hour{
     width: 40%;
-    height: 3%;
+    height: 2%;
     background: violet;
     position: absolute;
     top: 50%;
